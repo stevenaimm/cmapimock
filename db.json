@@ -27,5 +27,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "health": {
+    "health":"ok"
   }
 }
