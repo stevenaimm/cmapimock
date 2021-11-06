@@ -31,5 +31,22 @@
   "healthly":{
       "health":"OK"
    } 
+  "reportprofits":[
+      {
+         "id":1,
+         "acct_name":"Peter",
+         "profit": 10
+      },
+      {
+         "id":2,
+         "acct_name":"John",
+         "profit":20
+      },
+      {
+         "id":3,
+         "acct_name":"Tan",
+         "profit":30
+      }
+   ]
 
 }
