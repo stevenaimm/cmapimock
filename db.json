@@ -28,8 +28,8 @@
    "profile":{
       "name":"typicode"
    },
-  "profile2":{
-      "name":"typicode"
+  "healthly":{
+      "health":"OK"
    } 
 
 }
